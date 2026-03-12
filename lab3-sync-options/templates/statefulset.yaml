@@ -9,7 +9,7 @@ metadata:
 
 spec:
 
-  serviceName: "nginx"
+  serviceName: "nginx-service"
 
   replicas: 2
 
